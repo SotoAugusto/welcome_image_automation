@@ -1,5 +1,5 @@
 # Welcome Image Automation Tool
-
+![](https://github.com/SotoAugusto/welcome_image_automation/blob/main/demo.gif)
 ## Description
 The Welcome Image Automation Tool generates personalized images by overlaying profile pictures and text onto template images. It's designed to batch process data from a CSV file, making it easy to create custom images for multiple entries in one go.
 
